@@ -22,7 +22,7 @@
 
 > **Want the visual overview first?** The deck covers the research problem, 4-notebook pipeline, feature engineering rationale, and system design in 12 slides.
 
-👉 **[View the Project Presentation (PPTX)](./AREPS_Project_Slides.pptx)**
+👉 **[View the Project Presentation (PPTX)](https://docs.google.com/presentation/d/119_kAFPmuEVT1xKVpVZZ34KprUcbIN3_/edit?usp=sharing&ouid=117459468470211543781&rtpof=true&sd=true)**
 
 ---
 
@@ -655,7 +655,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 [linkedin.com/in/sahatanmoyofficial](https://linkedin.com/in/sahatanmoyofficial) | sahatanmoyofficial@gmail.com
 
 ---
-
-<div align="center">
-<sub>Built with ❤️ using Python 3.12, Scikit-learn, Pandas, Streamlit, PyYAML, joblib, and the OULAD dataset</sub>
-</div>
